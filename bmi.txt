@@ -1,0 +1,4 @@
+name	weight	height	bmi
+Michel	1.67	54	0.0005727023319615912
+rita	1.9	100	0.00018999999999999998
+josephine	0.25	1	0.25
