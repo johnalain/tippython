@@ -52,3 +52,20 @@ print(df.head())#read five columns from file
 print(df)
 print('=============== ')
 print(df.dtypes)
+print('=============== ')
+print(df.describe)
+print(df['2211'])#print one column according to its name
+#https://youtu.be/_Eb0utIRdkw?list=PLlvFEn0NKwXK-ClUmxWk1zUmF5hRCXKYV&t=887
+print('=============== ')
+print(df.loc[4])
+print('===============')
+print(df.columns)
+print('===============')
+df = df[['Unnamed: 0', 'Unnamed: 1', 'Unnamed: 2', '45358']]
+print(df)
+print('===============')
+print(df.shape)
+print('===============')
+print(df[' unamed:0'])>1000000
+#https://youtu.be/_Eb0utIRdkw?list=PLlvFEn0NKwXK-ClUmxWk1zUmF5hRCXKYV&t=1317
+
